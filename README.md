@@ -1,6 +1,6 @@
 # jueun-seo-sesac
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=June&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=June&fontSize=70)
 
 ## skill
 
