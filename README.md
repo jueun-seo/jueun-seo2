@@ -1,6 +1,6 @@
 # jueun-seo-sesac
 
-# 서주은
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=서주은&fontSize=90)
 
 ## skill
 
